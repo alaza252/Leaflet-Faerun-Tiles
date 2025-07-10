@@ -3,15 +3,13 @@
       <Title>Sword-Coast-Map_HighRes_square.png</Title>
       <Abstract></Abstract>
       <SRS></SRS>
-      <BoundingBox minx="0.00000000000000" miny="-6199.00000000000000" maxx="6199.00000000000000" maxy="0.00000000000000"/>
-      <Origin x="0.00000000000000" y="0.00000000000000"/>
+      <BoundingBox minx="0.00000000000000" miny="-216.00000000000000" maxx="1512.00000000000000" maxy="-1296.00000000000000"/>
+      <Origin x="0.00000000000000" y="-216.00000000000000"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="raster">
-        <TileSet href="0" units-per-pixel="24.21484375" order="0"/>
-        <TileSet href="1" units-per-pixel="12.107421875" order="1"/>
-        <TileSet href="2" units-per-pixel="6.0537109375" order="2"/>
-        <TileSet href="3" units-per-pixel="3.02685546875" order="3"/>
-        <TileSet href="4" units-per-pixel="1.513427734375" order="4"/>
-        <TileSet href="5" units-per-pixel="0.7567138671875" order="5"/>
+        <TileSet href="0" units-per-pixel="5.9" order="0"/>
+        <TileSet href="1" units-per-pixel="2.953125" order="1"/>
+        <TileSet href="2" units-per-pixel="1.4765625" order="2"/>
+        <TileSet href="3" units-per-pixel="0.73828125" order="3"/>
       </TileSets>
     </TileMap>
