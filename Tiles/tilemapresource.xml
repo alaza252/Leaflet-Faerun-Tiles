@@ -7,9 +7,9 @@
       <Origin x="0.00000000000000" y="0.00000000000000"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="raster">
-        <TileSet href="0" units-per-pixel="5.9" order="0"/>
-        <TileSet href="1" units-per-pixel="2.953125" order="1"/>
-        <TileSet href="2" units-per-pixel="1.4765625" order="2"/>
-        <TileSet href="3" units-per-pixel="0.73828125" order="3"/>
+        <TileSet href="0" units-per-pixel="5.90000000000000" order="0"/>
+        <TileSet href="1" units-per-pixel="2.95312500000000" order="1"/>
+        <TileSet href="2" units-per-pixel="1.47656250000000" order="2"/>
+        <TileSet href="3" units-per-pixel="0.73828125000000" order="3"/>
       </TileSets>
     </TileMap>
